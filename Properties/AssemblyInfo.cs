@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Autoclicker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("AutoClickIt")]
+[assembly: AssemblyDescription("Simple & Fast Open Source Auto Clicker")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Autoclicker")]
+[assembly: AssemblyCompany("VindEi")]
+[assembly: AssemblyProduct("AutoClickIt")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
